@@ -26,7 +26,7 @@
               lolcat
 
               qemu
-              
+
               docker
               podman
               podman-tui
@@ -74,7 +74,7 @@
               google-cloud-sdk
 
               pulumi
-              terraform
+              # terraform
 
               jq
               git
